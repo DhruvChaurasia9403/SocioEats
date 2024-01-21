@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372417678491",
+    "project_id": "socio-eats",
+    "storage_bucket": "socio-eats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372417678491:android:248de2e28434bf398c0a3e",
+        "android_client_info": {
+          "package_name": "com.example.socioeats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL3GF-F5p1Az5Ffw3UOx-ufdWlhbBJ8YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
